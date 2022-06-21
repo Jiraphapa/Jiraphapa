@@ -1,4 +1,4 @@
-### Hi there 👋 Willkommen zu meinem Repository!
+### Hi there 👋 welcome to my Repo!
 
 
 <!--
